@@ -1,0 +1,14 @@
+{
+  "name": "slip-renamer",
+  "version": "1.0.0",
+  "description": "Rename financial slips and receipts (bank transfer slips, e-receipts, invoices, booking receipts, payslips; PDF or image; Thai or English) by their content, in a format you pick, with month folders and a summary CSV.",
+  "author": {
+    "name": "FinanceSkill",
+    "url": "https://github.com/FinanceSkill"
+  },
+  "homepage": "https://github.com/FinanceSkill/slip-renamer-for-claude",
+  "repository": "https://github.com/FinanceSkill/slip-renamer-for-claude",
+  "license": "MIT",
+  "keywords": ["receipt", "slip", "rename", "accounting", "thai", "pdf"],
+  "skills": ["./skills/slip-renamer"]
+}

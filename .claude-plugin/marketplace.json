@@ -1,0 +1,17 @@
+{
+  "name": "slip-renamer-for-claude",
+  "owner": {
+    "name": "FinanceSkill",
+    "url": "https://github.com/FinanceSkill"
+  },
+  "description": "Slip and receipt renamer skill for Claude Code, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "slip-renamer",
+      "source": "./",
+      "description": "Rename slips and receipts by their content, checked against the document, with a summary CSV.",
+      "category": "productivity",
+      "keywords": ["receipt", "slip", "rename"]
+    }
+  ]
+}
